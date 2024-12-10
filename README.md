@@ -16,7 +16,7 @@ This project demonstrates a fully serverless architecture for converting user-su
 
 ---
 ## Architecture Diagram
-![Architecture Diagram](path/to/your/image/polly.jpeg)
+![Architecture Diagram](polly.jpeg)
 
 
 ## Architecture Overview
